@@ -11,9 +11,23 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## CSE 110 
+# Name:      HanJie Zhan 
+# Date:      01/06/21
+# Assigment: Lab 1
+##
+
+**Hello,My name is HanJie Zhan and this is my fourth year in ucsd. I interesting to _play game, play basketball, and read book._ If you have any similar hobby and you welcome to share with me. _Attention_:~~I am not like joke~~**
+
+My favority sentence:
+> Do not give up
+
+Please `do not share my personal information` to other person.
+
+Want surprised? click [here](www.github.com).
+
+[back](Markdown).
+
 
 - Bulleted
 - List
