@@ -29,7 +29,7 @@ Want surprised? click [here](http://www.youtube.com)
 
 # **Relative links**
 
-[Welcome to read my README file](main/README.md).
+[Welcome to read my README file](origin/main/index.md)
 
 # **Lists**
 
