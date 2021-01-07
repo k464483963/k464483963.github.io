@@ -45,7 +45,7 @@ My favorite meat is:
 
 # **Image**
 
-![Image]()
+![Image](http://picsum.photos/200/200)
 
 # **Table**
 
