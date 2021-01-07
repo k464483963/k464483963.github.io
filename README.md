@@ -49,4 +49,8 @@ My favorite meat is:
 
 # **Table**
 
-|Favorite drink||-||milk tea||code||orange|
+|Favorite drink|
+| --- |
+|milk tea|
+|---|
+|code|
