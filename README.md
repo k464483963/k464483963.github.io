@@ -1,11 +1,10 @@
 # k464483963.github.io
 
-**Headings**
+# **Headings**
 ## CSE 110 
-# Name:      HanJie Zhan 
-# Date:      01/06/21
-# Assigment: Lab 1
-##
+### Name:      HanJie Zhan 
+### Date:      01/06/21
+### Assigment: Lab 1
 
 **Styling text**
 **Hello,My name is HanJie Zhan and this is my fourth year in ucsd. I interesting to _play game, play basketball, and read book._ If you have any similar hobby and you welcome to share with me. _Attention_:~~I am not like joke~~**
