@@ -50,7 +50,7 @@ My favorite meat is:
 # **Table**
 
 |Favorite drink|
-| --- |
+|---|
 |milk tea|
 |---|
 |code|
