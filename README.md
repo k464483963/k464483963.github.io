@@ -52,5 +52,4 @@ My favorite meat is:
 |Favorite drink|
 |---|
 |milk tea|
-|---|
 |code|
